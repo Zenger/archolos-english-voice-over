@@ -1,0 +1,12 @@
+[BEGINVDF]
+Comment="Gothic - Sound Data - %%D%%N (C) 1999 Piranha Bytes"
+BaseDir="D:\Works\2024\kmva\1111\split\folder_6"
+VDFName="D:\Works\2024\kmva\KM_Speech6EN.mod"
+[FILES]
+_WORK\DATA\SOUND\SPEECH\*.* -r
+[EXCLUDE]
+*.lnk -r
+*.bak -r
+*.zip -r
+[INCLUDE]
+[ENDVDF]
