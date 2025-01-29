@@ -3,7 +3,7 @@ This is the technical repository for the mod. Here you will find some of the fil
 
 ### Download
 You can [download the mod on moddb](https://www.moddb.com/mods/the-chronicles-of-myrtana-archolos-english-voice-over-pack-ai-generated/downloads/english-voice-over-pack). Once you've downloaded the mod, unzip the contents to the Data folder of your Chronicles of Myrtana: Archolos installation folder.
-For steam that would be \SteamLibrary\steamapps\common\TheChroniclesOfMyrtana\Data. Ensure you replace the KM_Speech1EN.mod with the one in the archive.
+For steam that would be ```\SteamLibrary\steamapps\common\TheChroniclesOfMyrtana\Data```. Ensure you replace the ```KM_Speech1EN.mod``` with the one in the archive.
 
 ### Report and issue
 This is a hobby project and I may or may not return to it. If theres a game breaking issue or a completely whacked audio file an issue and I'll do my best to replace it/fix it.
